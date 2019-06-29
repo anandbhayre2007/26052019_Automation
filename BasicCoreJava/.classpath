@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/backport-util-concurrent-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/classworlds-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/classworlds-1.1-alpha-2.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/commons-exec-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/commons-jxpath-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/cssparser-0.9.14.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/cucumber-core-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/cucumber-html-0.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/cucumber-java-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/cucumber-junit-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/cucumber-jvm-deps-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/dom4j-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/htmlunit-2.15.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/htmlunit-core-js-2.15.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/httpclient-4.3.6.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/httpcore-4.3.3.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/httpmime-4.3.6.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/ini4j-0.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/java-client-3.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/jcommander-1.27.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/jcommander-1.29.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/jcommander-1.64.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/jetty-websocket-8.1.8.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/jna-3.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/jna-platform-3.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/junit-dep-4.11.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/mail.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/nekohtml-1.9.21.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/operadriver-1.5.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/poi-ooxml-schemas-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/protobuf-java-2.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/selenium-java-2.45.0.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/selenium-java-2.45.0-srcs.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="D:/All usefull jar files for framework/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
