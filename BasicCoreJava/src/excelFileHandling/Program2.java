@@ -14,24 +14,17 @@ public class Program2 {
 	public static void main(String[] args) throws IOException 
 	{
 		String path=System.getProperty("user.dir") + "\\src\\excelFileHandling\\TestData.xls";
-FileInputStream file= new FileInputStream(path);
+		FileInputStream file= new FileInputStream(path);
 		
 		HSSFWorkbook wb= new HSSFWorkbook(file);
 		
 		HSSFSheet sheet=wb.getSheet("Sheet2");
 				
-		HSSFRow row=sheet.getRow(1);		
-		
+		HSSFRow row=sheet.getRow(1);
 		HSSFCell cell=row.getCell(0);
-		
-		String val=cell.getStringCellValue();
-		
 		
 		int rows=sheet.getLastRowNum();	
 		int cols=row.getLastCellNum();
-		
-		System.out.println(rows);
-		System.out.println(cols);
 		
 		String[][] data=new String[rows+1][cols];
 		
